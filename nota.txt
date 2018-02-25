@@ -2,12 +2,15 @@
   El archivo hosts de AdAway fue generado por la app AdAway para Android.
   El archivo hosts fue generado desde las siguientes fuentes:
 
-	- http://hosts-file.net/ad_servers.txt
 	- http://hosts-file.net/download/hosts.txt
-	- http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 	- http://someonewhocares.org/hosts/hosts
 	- http://winhelp2002.mvps.org/hosts.txt
 	- http://www.malwaredomainlist.com/hostslist/hosts.txt
 	- https://adaway.org/hosts.txt
+	- https://amirtorrez.github.io/tools/hosts/disconnect-list1.txt
+	- https://amirtorrez.github.io/tools/hosts/disconnect-list2.txt
+	- https://hosts-file.net/ad_servers.txt
+	- https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+	- https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 	
   Script creado por Amir Torrez para la comunidad VegnuxMod
